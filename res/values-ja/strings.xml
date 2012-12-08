@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">まいぷち</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">まいぷち</string>
+    <string name="reset_date_list">全ぷちをリセット</string>
+
+</resources>

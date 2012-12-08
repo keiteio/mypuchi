@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">MyPuchi</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MyPuchi</string>
+    <string name="reset_date_list">Reset &quot;Puchi&quot; Data</string>
+
+</resources>
